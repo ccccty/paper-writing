@@ -84,7 +84,7 @@ description: 撰写、重写、润色与投稿前自审学术论文时使用—�
 7. **贡献对齐**：Introduction 的贡献条目与 Experiments 小节一一对应，缺一条就是扣分项。
 8. **作者/单位/邮箱**：无法代填，保留占位并写入核实清单置顶。
 
-## 5. 自审收敛（两件必做的事）
+## 5. 自审收敛（三件必做的事）
 
 1. **逆向提纲**：写下全文主论点 → 每段主题句 → 每段证据点，检查映射。映射不上的段落删或改。做法见 `references/craft/paragraph-clarity.md`。
 2. **claim-evidence 映射**：给 Abstract 与 Introduction 的每条主要论断建立 `Claim | 类型 | 证据来源 | 状态 | 处理动作`。状态为 needs-evidence/unsupported 的，当场降级或删除。做法与降级措辞表见 `references/craft/claim-evidence.md`。

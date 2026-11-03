@@ -91,6 +91,8 @@ Cross-reference the section-writing rules while harvesting: `references/sections
 
 ## 4. Five-dimension self-review questions
 
+> These are the **evidence-side** probes for the five dimensions. The canonical, full question list lives in `references/sections/paper-review.md`; the questions below are the ones that this document's mapping table can actually discharge. When the two overlap, `paper-review.md` is the authority for coverage and this list is the authority for wording that must be traceable to a claim row.
+
 Answer each with a location, not a judgement. "Yes" without a table or section number is not an answer. A question that cannot be answered in one sentence is itself a finding.
 
 **Contribution**
