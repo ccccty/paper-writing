@@ -21,6 +21,7 @@
 | 按公开基准量级填实验数字（占位值） | `references/zh/03-实验数值与基准对齐.md` | 中文 | 真跑出结果后只需核对；它管的是占位与核实清单，不是实测流程 |
 | 搭本地 LaTeX 环境、配 VS Code | `references/zh/04-本地LaTeX工具链.md` | 中文 | 纯 Overleaf 用户可跳过环境一节，直接看排错 |
 | 中文论文编译报错、反复排不掉 | `references/zh/05-编译排错手册.md` | 中文 | 报错出在英文模板的字体/文件名时，同样适用 |
+| 行文口语化、不像顶刊、摘要写得像流水账 | `references/zh/06-行文与语体-学术书面化.md` | 中文 | 只是段落逻辑不通（不是用词问题）→ `references/craft/paragraph-clarity.md` |
 | 编译并做产物验收 | `tools/build_paper.py`，用法与工具链见 `references/zh/04-本地LaTeX工具链.md` | 脚本注释为英文 | 在 Overleaf 上手动编译时用不上该脚本 |
 | 找可复用的段落句式与整段范本 | `references/examples/abstract-examples.md`、`references/examples/introduction-examples.md`、`references/examples/method-examples.md` | 英文 | 结构还没定、需要的是写法而不是句式时，先读 `references/sections/` |
 
@@ -50,6 +51,7 @@
 - `references/zh/03-实验数值与基准对齐.md`：从公开基准论文取锚点、设增量合理的占位值、写进核实清单，解决"用户只给一句'指标按差不多的填'"。
 - `references/zh/04-本地LaTeX工具链.md`：本机 Tectonic、字体、VS Code、LaTeX Workshop 与 TeX shim 的实测布局和命令，解决"环境从零搭不起来"。
 - `references/zh/05-编译排错手册.md`：报错→根因→修法的对照表（字体缺失、文件名无扩展名、biber 不可用、PowerShell 传参），解决"同一个报错反复试错"。
+- `references/zh/06-行文与语体-学术书面化.md`：顶刊语体三条判据、禁用词与句式清单（口语/网感/AI 套话）、句式改写规则、摘要五段结构、数字与量词硬约束、五组真实改写标尺、交付前五步语体自查，解决"内容对了但读起来像技术博客"。
 
 ## 3. 例文库
 
