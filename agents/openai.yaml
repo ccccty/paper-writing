@@ -1,4 +1,4 @@
 interface:
-  display_name: "Research Paper Writing"
-  short_description: "Academic paper writing and section-level refinement"
-  default_prompt: "Use $research-paper-writing to improve my paper's structure, flow, and section writing quality."
+  display_name: "Paper Writing"
+  short_description: "Research paper writing, rewriting and pre-submission self-review (English + Chinese)"
+  default_prompt: "Use $paper-writing to rewrite my paper's structure, flow, and section writing quality."

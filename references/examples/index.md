@@ -1,21 +1,21 @@
 # Example Bank Index
 
-Use this folder for concrete writing patterns and locally organized cite targets.
+本文件只做一件事：说明例文库怎么进、怎么用。**具体篇目一律从三份分册索引进入**，不要在本文档里找清单。
 
-## Files
+## 从哪进
 
-1. Abstract examples index: `references/examples/abstract-examples.md`
-2. Introduction examples index: `references/examples/introduction-examples.md`
-3. Abstract template files: `references/examples/abstract/template-a.md`, `references/examples/abstract/template-b.md`, `references/examples/abstract/template-c.md`
-4. Introduction task/application files: `references/examples/introduction/version-1-task-then-application.md`, `references/examples/introduction/version-2-application-first.md`, `references/examples/introduction/version-3-general-to-specific-setting.md`, `references/examples/introduction/version-4-open-with-challenge.md`
-5. Introduction technical-challenge files: `references/examples/introduction/technical-challenge-version-1-existing-task.md`, `references/examples/introduction/technical-challenge-version-2-existing-task-insight-backed-by-traditional.md`, `references/examples/introduction/technical-challenge-version-3-novel-task.md`, `references/examples/introduction/novel-task-challenge-decomposition.md`
-6. Introduction pipeline files: `references/examples/introduction/pipeline-version-1-one-contribution-multi-advantages.md`, `references/examples/introduction/pipeline-version-2-two-contributions.md`, `references/examples/introduction/pipeline-version-3-new-module-on-existing-pipeline.md`, `references/examples/introduction/pipeline-version-4-observation-driven.md`, `references/examples/introduction/pipeline-not-recommended-abstract-only.md`
-7. Method examples index: `references/examples/method-examples.md`
-8. Method detail files: `references/examples/method/pre-writing-questions.md`, `references/examples/method/module-triad-neural-body.md`, `references/examples/method/neural-body-annotated-figure-text.md`, `references/examples/method/module-design-instant-ngp.md`, `references/examples/method/module-motivation-patterns.md`, `references/examples/method/section-skeleton.md`, `references/examples/method/overview-template.md`, `references/examples/method/example-of-the-three-elements.md`, `references/examples/method/method-writing-common-issues-note.md`
+| 你要写 | 进哪份 |
+|---|---|
+| 摘要 | `references/examples/abstract-examples.md`（3 篇模板） |
+| 引言 | `references/examples/introduction-examples.md`（13 篇，按任务/应用、技术挑战、pipeline 三类分组） |
+| 方法 | `references/examples/method-examples.md`（9 篇，含写作前问题、模块范例、章节模板、常见问题） |
 
-## Usage
+## 怎么用
 
-1. Pick one template from a section guide.
-2. Open the matching examples file.
-3. Reuse the sentence logic, not exact wording.
-4. Keep citation links in your notes for traceability.
+1. 先由 `references/sections/` 里对应的章节指南定好结构与该段角色。
+2. 再到这里找"这一段长什么样"——只借句子的逻辑与推进方式，不抄原句。
+3. 引用链留在你的笔记里，便于回溯。
+
+## 什么时候别来
+
+故事、贡献、实验证据还没落定时，例文只会诱导你套空模板；中文论文的语体问题属于 `references/zh/`。
